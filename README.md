@@ -1,2 +1,36 @@
-# Labib-UX-Project
-UX Case Study for inclusive Deaf community app
+# Labeeb — UX Project (IT214)
+A UX project designed in **Figma** to support and empower the **Deaf community** through inclusive features and a simple, accessible interface.
+
+##  Goal
+Design a friendly platform for Deaf users to **connect, interact, and share**.
+
+##  Key Features
+- **Community space:** join, browse posts, like & reply  
+- **Discovery & profiles:** explore users, view profiles, and publish new posts
+
+##  Tools & Process
+- **Figma** (UI/UX design, prototyping)
+- User-centered design principles
+- Accessibility-first mindset
+
+##  Screenshots
+| Community | Home | Dictionary |
+|---|---|---|
+| ![Community](design/Community communities First Page.png) | ![Home](design/Home.png) | ![Dictionary](design/Digital Directionary Letters.png) |
+
+> Full screens (PDF): [Labeeb-screens.pdf](design/Untitled.pdf)
+
+##  Demo
+<!-- سيظهر مشغل فيديو مباشر لو كان mp4 مرفوع وحجمه مناسب -->
+<video src="video/Screen Recording 2025-09-24 at 16.13.56-2.mp4" controls width="640"></video>
+
+
+
+##  Team
+- Jana Almengash  
+- Layan Alfawaz  
+- Wasan Alamri  
+- Dhay Abdullah
+
+##  License
+MIT
