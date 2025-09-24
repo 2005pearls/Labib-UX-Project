@@ -16,7 +16,7 @@ Design a friendly platform for Deaf users to **connect, interact, and share**.
 ##  Screenshots
 | Community | Home | Dictionary |
 |---|---|---|
-| ![Community](design/Community communities First Page.png) | ![Home](design/Home.png) | ![Dictionary](design/Digital Directionary Letters.png) |
+| ![Community](design/Community communities First Page.png) | ![Home](design/Home.png) | ![Dictionary](design/Digital Dictionary Letters.png) |
 
 > Full screens (PDF): [Labeeb-screens.pdf](design/Untitled.pdf)
 
