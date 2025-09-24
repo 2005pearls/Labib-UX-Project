@@ -14,15 +14,17 @@ Design a friendly platform for Deaf users to **connect, interact, and share**.
 - Accessibility-first mindset
 
 ##  Screenshots
-| Community | Home | Dictionary |
-|---|---|---|
-| ![Community](design/Community.png) | ![Home](design/home.png) | ![Dictionary](design/Letters.png) |
+<table>
+  <tr>
+    <td><img src="design/Communitypng" width="200"/></td>
+    <td><img src="design/home.png" width="200"/></td>
+    <td><img src="design/Letters.png" width="200"/></td>
+  </tr>
+</table>
 
 > Full screens (PDF): [Labeeb-screens.pdf](design/Untitled.pdf)
 
-##  Demo
-<!-- سيظهر مشغل فيديو مباشر لو كان mp4 مرفوع وحجمه مناسب -->
-<video src="video/Demo.mp4"></video>
+
 
 
 
