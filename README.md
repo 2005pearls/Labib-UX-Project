@@ -22,7 +22,7 @@ Design a friendly platform for Deaf users to **connect, interact, and share**.
 
 ##  Demo
 <!-- سيظهر مشغل فيديو مباشر لو كان mp4 مرفوع وحجمه مناسب -->
-<video src="video/Screen Recording 2025-09-24 at 16.13.56-2.mp4" controls width="640"></video>
+<video src="video/Demo.mp4" controls width="640"></video>
 
 
 
