@@ -16,9 +16,9 @@ Design a friendly platform for Deaf users to **connect, interact, and share**.
 ##  Screenshots
 <table>
   <tr>
-    <td><img src="design/Communitypng" width="200"/></td>
-    <td><img src="design/home.png" width="200"/></td>
-    <td><img src="design/Letters.png" width="200"/></td>
+    <td><img src="design/Community.png" width="100"/></td>
+    <td><img src="design/home.png" width="100"/></td>
+    <td><img src="design/Letters.png" width="100"/></td>
   </tr>
 </table>
 
