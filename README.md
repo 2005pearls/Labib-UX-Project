@@ -1,4 +1,4 @@
-# Labeeb — UX Project (IT214)
+# Labib — UX Project (IT214)
 A UX project designed in **Figma** to support and empower the **Deaf community** through inclusive features and a simple, accessible interface.
 
 ##  Goal
